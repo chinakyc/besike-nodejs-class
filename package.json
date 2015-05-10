@@ -1,0 +1,11 @@
+{
+  "name": "5_class_inheritance",
+  "version": "0.0.1",
+  "description": "class-inheritance",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "azul",
+  "license": "ISC"
+}
