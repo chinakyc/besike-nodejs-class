@@ -102,6 +102,7 @@ describe("Implement Methods Inheritance", function() {
   describe("b",function() {
     it("should be an instance of B",function() {
       expect(b.constructor).to.eq(B);
+      //expect((b instanceof B)).to.eq(true);
     });
 
     it("should be able to call method `a` through inheritance",function() {
